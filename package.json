@@ -1,0 +1,11 @@
+{
+  "name": "simple pwa",
+  "version": "1.0",
+  "description": "simple progressive web app",
+  "main": "server.js",
+  "repository": "",
+  "author": "Pedro Alves",
+  "dependencies": {
+    "express": "~3.2.4"
+  }
+}
