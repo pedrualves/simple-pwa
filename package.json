@@ -1,9 +1,9 @@
 {
-  "name": "simple pwa",
+  "name": "simplepwa",
   "version": "1.0",
   "description": "simple progressive web app",
   "main": "server.js",
-  "repository": "",
+  "repository": "https://github.com/pedrualves/simple-pwa.git",
   "author": "Pedro Alves",
   "dependencies": {
     "express": "~3.2.4"
