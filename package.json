@@ -1,6 +1,6 @@
 {
   "name": "simplepwa",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "simple progressive web app",
   "main": "server.js",
   "repository": "https://github.com/pedrualves/simple-pwa.git",
